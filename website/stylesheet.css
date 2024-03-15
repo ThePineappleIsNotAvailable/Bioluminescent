@@ -1,0 +1,67 @@
+.text {
+  font-family: Georgia;
+}
+
+.body-text {
+  font-size: 23px;
+  text-align: center;
+}
+
+.navigation-bar {
+  margin-top: 0px;
+  width:  100%;
+  height: 80px;
+  background-color: rgb(255, 200, 200);
+  display: flex;
+}
+
+.navigation-element {
+  margin-left : 15px;
+  margin-top  : 15px;
+  width: 100px;
+  height: 50px;
+  background-color: rgb(255, 170, 170);
+  display: flex;
+  border-radius: 10px;
+}
+
+.navigation-home {
+  margin-left : 15px;
+  margin-top  : 15px;
+  height: 50px;
+  background-color: rgb(255, 170, 170);
+  display: flex;
+  border-radius: 10px;
+}
+
+.navigation-label {
+  color: black;
+  width: inherit;
+  height: inherit;
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.navigation-home-label {
+  max-width: 100px;
+  max-height: 50px;
+  border-radius: 10px;
+}
+
+#body {
+  position: absolute;
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(250, 235, 235);
+}
+
+#title {
+  text-align: center;
+  font-style: monospace;
+}
+
+#home-body {
+  margin-top: 200px;
+}
