@@ -1,4 +1,3 @@
-# Game
-## TODO: Figure out a real name for this
+# Bioluminescent
 
-A 2D game made with Rust and the Bevy game engine.
+A 3D game made with Rust and the Bevy game engine.
